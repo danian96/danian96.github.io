@@ -87,11 +87,14 @@ weight = 4
     name = "github"
     link = "https://github.com/danian96"
   [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    name = "gitlab"
+    link = "https://www.gitlab.com/danianmercado"
   [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    name = "facebook"
+    link = "https://www.facebook.com/DaniloMercadoOudalova"
   [[params.social]]
     name = "email"
     link = "danianmercado@gmail.com"
+  [[params.social]]
+    name = "whatsapp"
+    link = "https://wa.me/+59178503050?text=Hi%20from%20danian96.github.io"
