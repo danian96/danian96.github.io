@@ -73,7 +73,7 @@ weight = 4
     enabled = true # default
     engine = "utterances" # only disqus, utterances, and cactus_comments is supported
     [params.comments.utterances]
-      repo = "<danian96>/<danian96.github.io>"
+      repo = "danian96/danian96.github.io"
       label = "comments" # you can use however you want to label your name in your repo's issues
       theme = "github-light"
     [params.comments.cactuscomments]
